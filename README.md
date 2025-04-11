@@ -2,6 +2,9 @@
 
 Este é um projeto frontend desenvolvido com **Vue 3** e **Quasar Framework** para buscar, visualizar e gerenciar GIFs utilizando a API do Giphy. O aplicativo permite que os usuários pesquisem GIFs, visualizem categorias, adicionem GIFs aos favoritos e naveguem por suas coleções salvas.
 
+Uma versão demo pode ser utilizada no link:
+https://giphy-sbgbr.netlify.app/#/
+
 ## Tecnologias Utilizadas
 
 - **Vue 3**: Framework JavaScript progressivo para construção de interfaces de usuário.
