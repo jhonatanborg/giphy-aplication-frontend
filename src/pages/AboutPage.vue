@@ -18,8 +18,8 @@
       <q-card-section>
         <div class="text-h6 text-primary">Sobre o Desenvolvedor</div>
         <div class="text-body1 q-mt-sm">
-          Meu nome é <strong>Seu Nome</strong>, sou desenvolvedor front-end com experiência em
-          Vue.js, Quasar, Tailwind, TypeScript e outras tecnologias modernas do ecossistema web.
+          Meu nome é <strong>Jhonatan Borges</strong>, sou desenvolvedor front-end com experiência
+          em Vue.js, Quasar, Tailwind, TypeScript e outras tecnologias modernas do ecossistema web.
           Tenho paixão por criar interfaces limpas, responsivas e focadas na experiência do usuário.
         </div>
       </q-card-section>
